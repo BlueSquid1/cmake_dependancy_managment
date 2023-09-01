@@ -1,0 +1,1 @@
+This is an example of how to do simply dependancy management in C++ so that artifacts created in other repos can be packaged up and then downloading in other repos and linked.
